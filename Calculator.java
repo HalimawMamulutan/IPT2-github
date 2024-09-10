@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 public class Calculator {
-    public static int subtraction(int a , int b){
-        return a - b;
+    public static int multiply(int a , nt b){ 
+        return a * b;
     }
 
 }
